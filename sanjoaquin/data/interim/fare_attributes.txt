@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration,agency_raw_name
+1_R_Local,1.5,USD,0,0.0,,sjrtd_2015_0127
+1_R_Express,1.5,USD,1,2.0,7200.0,sjrtd_2015_0127
+1_D_Pass,4.0,USD,1,,25000.0,sjrtd_2015_0127

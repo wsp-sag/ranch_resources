@@ -1,0 +1,7 @@
+fare_product_id,fare_product_name,rider_category_id,fare_container_id,bundle_amount,duration_start,duration_amount,duration_unit,duration_type,offset_amount,offset_unit,service_id,timeframe_id,timeframe_type,cap_required,eligible_cap_id,amount,min_amount,max_amount,currency
+day_local,Local Day Pass General Public,,,,,1,3,1,,,,,,,,3,,,USD
+day_intercity,Intercity Day Pass General Public,,,,,1,3,1,,,,,,,,6,,,USD
+7-day,Seven Day Pass General Public,,,,,7,3,2,,,,,,,,20,,,USD
+31-day,31-Day Pass General Public,,,,,31,3,2,,,,,,,,60,,,USD
+31-day_student,31-Day Student Pass,student,,,,31,3,1,,,,,,,,45,,,USD
+semester_student,Semester Student Pass,student,,,,5,5,1,,,,,,,,180,,,USD

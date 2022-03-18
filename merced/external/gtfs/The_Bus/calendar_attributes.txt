@@ -1,0 +1,6 @@
+service_id,service_description
+c_23877_b_33141_d_112,Year Round starting 10/25/21 (FSaSu)
+c_23877_b_33141_d_31,Year Round starting 10/25/21 (Weekday)
+c_23877_b_33141_d_32,Year Round starting 10/25/21 (Saturday only)
+c_23877_b_33141_d_64,Year Round starting 10/25/21 (Sunday only)
+c_23877_b_33141_d_96,Year Round starting 10/25/21 (Weekend)

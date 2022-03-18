@@ -1,0 +1,6 @@
+rider_category_id,rider_category_name,min_age,max_age,eligibility_url
+senior,Seniors Age 62 and Over,62,,https://www.mercedthebus.com/DocumentCenter/View/1004/FREE-FIXED-ROUTE-ID-SAMPLES-Both-Language
+disabled,Persons with Disabilities,,,https://www.mercedthebus.com/DocumentCenter/View/1004/FREE-FIXED-ROUTE-ID-SAMPLES-Both-Language
+veteran,Veterans,,,https://www.mercedthebus.com/DocumentCenter/View/1004/FREE-FIXED-ROUTE-ID-SAMPLES-Both-Language
+student,Students,,,https://www.mercedthebus.com/DocumentCenter/View/1163/Transit-Bulk-Order-Editable-Form---updated
+children,Children Under 46 Inches,,,https://www.mercedthebus.com/131/Fare-Fees

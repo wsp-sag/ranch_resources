@@ -1,0 +1,486 @@
+stop_id,stop_city
+768471,Merced
+768319,Los Banos
+768325,Livingston
+768544,Merced
+768528,Merced
+768423,Merced
+768414,Atwater
+768530,Merced
+768512,Merced
+768409,Atwater
+768560,Merced
+768503,Merced
+768368,Atwater
+768282,Delhi
+768228,Los Banos
+768345,Merced
+768321,Merced
+768478,Merced
+768429,Merced
+768518,Merced
+768375,Atwater
+768304,Merced
+768261,Planada
+768588,Merced
+768436,Merced
+768362,Merced
+768247,Merced
+768497,Merced
+768580,Merced
+768541,Merced
+768468,Merced
+768396,Atwater
+768309,Merced
+770325,Los Banos
+768315,Merced
+768178,Winton
+768378,Atwater
+768408,Winton
+781917,Springfield
+768535,Merced
+768467,Merced
+768187,Atwater
+768276,Turlock
+781908,Springfield
+781953,Springfield
+768572,Merced
+768463,Merced
+768583,Merced
+768323,Merced
+768559,Merced
+768174,Winton
+768392,Atwater
+768531,Merced
+768411,Winton
+768298,Atwater
+781955,Springfield
+768525,Merced
+768205,Livingston
+781939,Springfield
+768212,Merced
+768592,Los Banos
+768389,Atwater
+768555,Merced
+768317,Merced
+768643,Planada
+768245,Merced
+768581,Merced
+768570,Merced
+768271,Merced
+781907,Springfield
+768577,Merced
+768253,Merced
+768355,Dos Palos
+781937,Springfield
+768167,Atwater
+768502,Merced
+781954,Springfield
+768353,Merced
+768461,Merced
+768283,Delhi
+768381,Atwater
+768258,Planada
+2584573,Livingston
+781916,Springfield
+768327,Merced
+781943,Springfield
+768457,Merced
+768494,Merced
+768514,Merced
+768388,Atwater
+768270,Planada
+768513,Merced
+768326,Merced
+768357,Dos Palos
+768201,Livingston
+781906,Springfield
+781924,Springfield
+768477,Merced
+768188,Atwater
+768482,Merced
+768172,Atwater
+768176,Winton
+768539,Merced
+768393,Atwater
+768576,Merced
+768451,Merced
+768400,Atwater
+781947,Springfield
+768587,Merced
+782478,Springfield
+768638,El Nido
+768314,Merced
+768428,Merced
+768635,Dos Palos
+768185,Atwater
+768642,Planada
+768184,Atwater
+781913,Springfield
+768529,Merced
+768406,Atwater
+781911,Springfield
+768496,Merced
+768215,Merced
+768190,Atwater
+768566,Merced
+768522,Merced
+768181,Atwater
+768257,Merced
+768475,Merced
+768290,Delhi
+781912,Springfield
+768372,Atwater
+768401,Atwater
+768413,Atwater
+768272,Merced
+781931,Springfield
+768170,Atwater
+768526,Merced
+768260,Planada
+781945,Springfield
+768470,Merced
+768443,Merced
+768402,Atwater
+768361,Livingston
+768262,Planada
+768179,Winton
+768558,Merced
+781814,Springfield
+781938,Los Banos
+781812,Springfield
+768195,Livingston
+768527,Merced
+768163,Atwater
+768498,Merced
+768365,Livingston
+768433,Merced
+781944,Springfield
+768532,Merced
+768492,Merced
+781909,Springfield
+768553,Merced
+768193,Atwater
+768487,Merced
+768206,Winton
+768571,Merced
+768200,Livingston
+781813,Springfield
+781935,Springfield
+768194,Livingston
+768395,Atwater
+768273,Planada
+768420,Merced
+768637,Dos Palos
+768628,Los Banos
+768488,Merced
+781922,Springfield
+768405,Winton
+768244,Merced
+768554,Merced
+768275,Merced
+768623,Los Banos
+768177,Winton
+768318,Atwater
+782486,Springfield
+2584569,Los Banos
+768636,Dos Palos
+768387,Atwater
+768425,Merced
+768207,Winton
+768424,Merced
+768418,Merced
+768579,Merced
+768219,Merced
+768169,Atwater
+768506,Merced
+781936,Springfield
+768390,Atwater
+768164,Atwater
+768403,Atwater
+768614,Los Banos
+768292,Merced
+768458,Merced
+768491,Merced
+768265,Planada
+768551,Merced
+768523,Merced
+768293,Merced
+768328,Merced
+768213,Dos Palos
+768464,Merced
+768366,Livingston
+768536,Merced
+768569,Merced
+768460,Merced
+768504,Merced
+768171,Atwater
+768495,Merced
+768324,Merced
+768160,Merced
+768622,Los Banos
+768266,Planada
+781942,Springfield
+768211,Merced
+781994,Springfield
+768575,Merced
+768221,Los Banos
+2584570,Santa Rita Park
+770327,Gustine
+768540,Merced
+768333,Merced
+768578,Merced
+768490,Merced
+768538,Merced
+781930,Springfield
+768427,Merced
+768455,Merced
+768407,Atwater
+768336,Los Banos
+781956,Springfield
+768313,Merced
+768241,Los Banos
+768565,Merced
+768277,Turlock
+768519,Merced
+768297,Merced
+844204,Springfield
+768582,Merced
+768562,Merced
+768202,Livingston
+768561,Merced
+768322,Merced
+768284,Delhi
+768556,Merced
+768286,Delhi
+768183,Atwater
+768363,Turlock
+768165,Atwater
+768274,Le Grand
+768520,Merced
+768384,Atwater
+768448,Merced
+768342,Merced
+768547,Merced
+768435,Merced
+781934,Springfield
+768281,Delhi
+768446,Merced
+782488,Springfield
+768341,Merced
+768626,Los Banos
+768377,Atwater
+768238,Los Banos
+768348,Merced
+768189,Atwater
+768533,Merced
+768374,Atwater
+768474,Merced
+768339,Los Banos
+768199,Livingston
+781927,Springfield
+2584574,Merced
+768294,Merced
+768220,Merced
+768397,Atwater
+768350,Dos Palos
+768548,Merced
+782480,Springfield
+768550,Merced
+2584571,Santa Rita Park
+768373,Winton
+782481,Springfield
+781941,Springfield
+768334,Le Grand
+768416,Atwater
+768466,Merced
+844203,Livingston
+768340,Los Banos
+768508,Merced
+768330,Merced
+768279,Merced
+768382,Winton
+768552,Merced
+781929,Springfield
+768484,Merced
+768472,Merced
+768380,Atwater
+782485,Springfield
+768259,Planada
+768204,Livingston
+770323,Gustine
+768291,Delhi
+768534,Merced
+768356,Dos Palos
+768289,Delhi
+768620,Los Banos
+768175,Winton
+768209,Merced
+768441,Merced
+768510,Merced
+781932,Springfield
+768422,Merced
+768394,Atwater
+768180,Atwater
+782489,Springfield
+768639,El Nido
+768359,Merced
+768210,Merced
+768449,Merced
+768557,Merced
+768521,Merced
+768264,Planada
+770324,Newman
+768385,Atwater
+782482,Springfield
+768280,Merced
+768450,Merced
+768369,Atwater
+768287,Delhi
+768585,Merced
+768268,Planada
+768398,Atwater
+768417,Merced
+768479,Merced
+768589,Merced
+768586,Merced
+835719,Springfield
+768644,Planada
+768379,Atwater
+768203,Livingston
+768248,Los Banos
+768166,Atwater
+781950,Los Banos
+768599,Los Banos
+768288,Delhi
+768469,Merced
+768567,Merced
+768447,Merced
+768412,Atwater
+768493,Merced
+768360,Merced
+768509,Merced
+768465,Merced
+781949,Springfield
+768604,Los Banos
+768563,Merced
+768545,Merced
+768489,Merced
+768437,Merced
+781926,Springfield
+768438,Merced
+768480,Merced
+768267,Planada
+768254,Merced
+768596,Los Banos
+768483,Merced
+768546,Merced
+768370,Atwater
+768332,Merced
+768432,Merced
+781928,Springfield
+768367,Atwater
+768404,Atwater
+768439,Merced
+768208,Merced
+768444,Merced
+782487,Springfield
+768196,Livingston
+768419,Merced
+768607,Los Banos
+768198,Livingston
+768442,Merced
+781940,Springfield
+768627,Los Banos
+768386,Atwater
+768476,Merced
+768431,Merced
+768640,Le Grand
+768240,Los Banos
+768500,Merced
+768511,Merced
+768269,Planada
+768347,Los Banos
+768473,Merced
+768214,Merced
+782479,Springfield
+768440,Merced
+768610,Los Banos
+768516,Merced
+768335,Turlock
+768263,Planada
+768301,Merced
+768505,Merced
+781915,Springfield
+768285,Delhi
+768426,Merced
+768343,Merced
+768430,Merced
+768186,Atwater
+768593,Los Banos
+768331,Merced
+768329,Merced
+768255,Merced
+768308,Merced
+768173,Atwater
+768507,Merced
+768364,Delhi
+781933,Springfield
+768486,Merced
+835001,Springfield
+781925,Springfield
+768597,Los Banos
+781923,Springfield
+768300,Merced
+768256,Merced
+768462,Merced
+768485,Merced
+768316,Merced
+768168,Atwater
+768568,Merced
+768452,Merced
+768517,Merced
+768358,Dos Palos
+768295,Merced
+768376,Atwater
+768605,Los Banos
+768501,Merced
+768481,Merced
+768549,Merced
+768453,Merced
+768307,Merced
+768415,Atwater
+768303,Merced
+768574,Merced
+782483,Springfield
+768391,Atwater
+768421,Merced
+768278,Merced
+768197,Livingston
+768543,Merced
+768542,Merced
+781921,Springfield
+768573,Merced
+768354,Merced
+768454,Merced
+768456,Merced
+768296,Merced
+768383,Atwater
+768537,Merced
+781948,Springfield
+768459,Merced
+781816,Springfield
+768584,Merced
+768344,Livingston
+768524,Merced
+768434,Merced
+768608,Los Banos
+768410,Winton
+768499,Merced
+768641,Le Grand
+768634,Dos Palos
+768590,Merced
+768515,Merced
+768310,Merced
+768371,Atwater
+768564,Merced

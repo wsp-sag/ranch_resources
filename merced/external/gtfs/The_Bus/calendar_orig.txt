@@ -1,0 +1,6 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_23877_b_33141_d_96,Year Round starting 10/25/21 (Weekend),0,0,0,0,0,1,1,20211025,20221001
+c_23877_b_33141_d_64,Year Round starting 10/25/21 (Sunday only),0,0,0,0,0,0,1,20211025,20221001
+c_23877_b_33141_d_32,Year Round starting 10/25/21 (Saturday only),0,0,0,0,0,1,0,20211025,20221001
+c_23877_b_33141_d_31,Year Round starting 10/25/21 (Weekday),1,1,1,1,1,0,0,20211025,20221001
+c_23877_b_33141_d_112,Year Round starting 10/25/21 (FSaSu),0,0,0,0,1,1,1,20211025,20221001

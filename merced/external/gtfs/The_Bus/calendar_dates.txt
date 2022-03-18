@@ -1,0 +1,32 @@
+service_id,date,holiday_name,exception_type
+c_23877_b_33141_d_96,20220410,Easter,2
+c_23877_b_33141_d_96,20220214,President's Day,1
+c_23877_b_33141_d_96,20220117,Martin Luther King Jr Day,1
+c_23877_b_33141_d_96,20220101,New Year's Day ,2
+c_23877_b_33141_d_96,20211231,New Year's Eve,1
+c_23877_b_33141_d_96,20211225,Christmas Day ,2
+c_23877_b_33141_d_96,20211224,Christmas Eve,1
+c_23877_b_33141_d_96,20211126,Day After Thanksgiving,1
+c_23877_b_33141_d_96,20211111,Veterans Day,1
+c_23877_b_33141_d_64,20220410,Easter,2
+c_23877_b_33141_d_64,20220214,President's Day,1
+c_23877_b_33141_d_64,20220117,Martin Luther King Jr Day,1
+c_23877_b_33141_d_64,20211231,New Year's Eve,1
+c_23877_b_33141_d_64,20211224,Christmas Eve,1
+c_23877_b_33141_d_64,20211126,Day After Thanksgiving,1
+c_23877_b_33141_d_64,20211111,Veterans Day,1
+c_23877_b_33141_d_32,20220101,New Year's Day ,2
+c_23877_b_33141_d_32,20211225,Christmas Day ,2
+c_23877_b_33141_d_31,20220905,Labor Day ,2
+c_23877_b_33141_d_31,20220704,Independence Day,2
+c_23877_b_33141_d_31,20220530,Memorial Day,2
+c_23877_b_33141_d_31,20220214,President's Day,2
+c_23877_b_33141_d_31,20220117,Martin Luther King Jr Day,2
+c_23877_b_33141_d_31,20211231,New Year's Eve,2
+c_23877_b_33141_d_31,20211224,Christmas Eve,2
+c_23877_b_33141_d_31,20211126,Day After Thanksgiving,2
+c_23877_b_33141_d_31,20211125,Thanksgiving Day,2
+c_23877_b_33141_d_31,20211111,Veterans Day,2
+c_23877_b_33141_d_112,20220410,Easter,2
+c_23877_b_33141_d_112,20220101,New Year's Day ,2
+c_23877_b_33141_d_112,20211225,Christmas Day ,2
